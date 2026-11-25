@@ -9,4 +9,4 @@
 	url = https://github.com/gweslab/libCerfEngine.git
 [submodule "libCerfCore"]
 	path = libCerfCore
-	url = https://github.com/gweslab/libCerfCore.git
+	url = git@github.com:tich/libCerfCore.git
