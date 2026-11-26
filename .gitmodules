@@ -6,7 +6,7 @@
 	url = https://github.com/dz333n/libservicelocator.git
 [submodule "libCerfEngine"]
 	path = libCerfEngine
-	url = https://github.com/gweslab/libCerfEngine.git
+	url = git@github.com:tich/libCerfEngine.git
 [submodule "libCerfCore"]
 	path = libCerfCore
 	url = git@github.com:tich/libCerfCore.git
